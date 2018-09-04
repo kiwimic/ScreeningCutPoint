@@ -1,0 +1,1 @@
+## Tutaj znajdzie się cały opis kodu, instrukcję i legenda ####
